@@ -5,6 +5,10 @@ while n>0:
 print('Blastoff!')
 print(n)
 
+for i in [5,4,3,2,1]:
+    print(i)
+print('Blastoff!')
+    
 while True:
     #provide any true condition.. 'True' basically gives an infinite loop
     line=input('>')
